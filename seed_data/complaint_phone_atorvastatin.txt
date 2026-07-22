@@ -1,0 +1,24 @@
+Phone Complaint Log — Transcription
+Date: October 12, 2024
+Received By: Complaint Intake Specialist (Manual Entry)
+Source: Phone Call
+
+Caller: Ms. Patricia Wong, Pharmacy Manager
+Organization: Community Care Pharmacy
+Phone: +1-555-0377
+
+Product: Atorvastatin Calcium FDF 40mg Tablets
+Batch/Lot Number: FDF-ATV-2024-0772
+Manufacturing Date: July 3, 2024
+
+Complaint Summary (Verbatim Transcription):
+Caller states a patient returned tablets from batch FDF-ATV-2024-0772 because several tablets in the blister strip appeared chipped and broken. Patient concerned about dose uniformity. Caller inspected remaining stock and found approximately 5% of tablets in the returned pack showed visible chipping at edges.
+
+No adverse events reported. Caller has not observed this issue with other batches of Atorvastatin from our company. Requesting investigation into compression force settings or packaging line for this batch.
+
+Classification Notes (Intake):
+- Type: Quality Defect (tablet integrity)
+- Preliminary Severity: Minor (no safety signal, cosmetic/integrity concern)
+- Batch quarantined at pharmacy level (42 packs)
+
+Follow-up contact: pwong@communitycarepharmacy.com

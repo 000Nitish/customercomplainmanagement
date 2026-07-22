@@ -1,0 +1,27 @@
+From: qa@medsupply.com
+To: complaints@pharmatech-api.com
+Subject: Quality Concern - Acetaminophen API Batch API-2024-0892
+Date: August 2, 2024
+
+Dear PharmaTech Quality Team,
+
+We are writing to report a quality concern regarding Acetaminophen API 500mg received under Purchase Order PO-88421.
+
+Product Details:
+- Product Name: Acetaminophen API 500mg
+- Batch/Lot Number: API-2024-0892
+- Manufacturing Date: June 15, 2024
+- Quantity Received: 250 kg
+
+Issue Description:
+Upon visual inspection of the received material, our QC team observed off-white discoloration inconsistent with the expected white crystalline appearance. Particle size distribution testing showed slight deviation from our historical acceptance criteria, though all COA parameters were within specification at release.
+
+We request your investigation into potential process variation during crystallization or drying steps for this batch. Please provide your findings and any impact assessment on downstream FDF manufacturing.
+
+Contact: Jennifer Walsh, QA Manager
+Email: qa@medsupply.com
+Phone: +1-555-0142
+
+Regards,
+MedSupply Distribution LLC
+Quality Assurance Department

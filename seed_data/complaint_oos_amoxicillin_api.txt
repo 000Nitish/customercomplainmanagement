@@ -1,0 +1,29 @@
+CUSTOMER COMPLAINT FORM
+PharmaTech Manufacturing — Quality Management System
+
+Date Received: September 5, 2024
+Source: Written Letter (Postal Mail)
+
+Customer Name: Apex Chemical Distributors
+Contact: Robert Chen, Procurement Director
+Email: rchen@apexchem.com
+
+PRODUCT DETAILS
+Product: Amoxicillin Trihydrate API (Compacted)
+Batch/Lot: API-AMX-2024-1205
+Manufacturing Date: August 1, 2024
+Certificate of Analysis Reference: COA-AMX-1205-Rev1
+
+COMPLAINT NARRATIVE
+Apex Chemical Distributors received a shipment of Amoxicillin Trihydrate API batch API-AMX-2024-1205 and noted out-of-specification (OOS) results during incoming identity testing. FT-IR spectrum showed minor peak deviation at 1680 cm-1 compared to reference standard.
+
+Initial COA from manufacturer showed passing results. Customer's retained sample from same batch confirmed OOS on re-test. Customer suspects potential sample mix-up during QC release testing or stability-related degradation not captured at release.
+
+Customer requests:
+- Full OOS investigation per FDA guidance
+- Review of QC raw data for batch API-AMX-2024-1205
+- Impact assessment on FDF batches manufactured using this API lot
+
+Severity Assessment (Customer): Major — OOS result affecting API release integrity
+
+Please assign investigator and respond within 30 calendar days per quality agreement QA-2023-004.

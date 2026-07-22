@@ -1,0 +1,27 @@
+From: regulatory@gpharma.com
+To: complaints@pharmatech-fdf.com
+Subject: URGENT - Labeling Error Batch FDF-IBU-2024-0441
+Date: July 28, 2024
+
+URGENT COMPLAINT - PACKAGING/LABELING
+
+Customer: Global Pharma Retail
+Contact: David Kim, Regulatory Affairs Manager (regulatory@gpharma.com)
+
+Product Information:
+Product Name: Ibuprofen FDF 200mg Tablets (Blister Pack, 30 count)
+Batch/Lot Number: FDF-IBU-2024-0441
+Manufacturing Date: May 20, 2024
+Date Received at Distribution: July 25, 2024
+
+Complaint Description:
+During routine shelf audit at our distribution center, we identified a critical labeling discrepancy on blister packs from batch FDF-IBU-2024-0441. The printed expiry date reads "EXP 06/2026" when the batch record and our receiving documentation indicate the correct expiry should be "EXP 06/2025".
+
+Approximately 12,000 blister packs may be affected. Product has NOT been dispensed to patients at our retail locations, but stock has been quarantined pending your response.
+
+This appears to be a packaging/labeling defect with potential patient safety implications if product with incorrect expiry reaches market. We believe this may require regulatory notification.
+
+Please initiate investigation immediately and advise on Field Alert Report requirements.
+
+Global Pharma Retail
+Regulatory Affairs

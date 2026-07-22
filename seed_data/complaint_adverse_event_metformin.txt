@@ -1,0 +1,31 @@
+PHARMACOVIGILANCE COMPLAINT REPORT
+Hospital Pharmacy Network — Adverse Event Notification
+Date Received: July 15, 2024
+
+CUSTOMER INFORMATION
+Organization: Hospital Pharmacy Network
+Contact Person: Dr. Emily Torres, Pharmacovigilance Officer
+Email: pv@hpnetwork.org
+Phone: +1-555-0298
+
+PRODUCT INFORMATION
+Product Name: Metformin HCl FDF 850mg Extended Release Tablets
+Product Type: Finished Dosage Form (FDF)
+Batch/Lot Number: FDF-MET-2024-0118
+Manufacturing Date: April 10, 2024
+NDC: 12345-678-90
+
+COMPLAINT DESCRIPTION
+A patient (Patient ID redacted per HIPAA) reported experiencing severe nausea and vomiting within 2 hours of taking Metformin HCl 850mg tablets from batch FDF-MET-2024-0118. The patient had been on the same medication for 6 months without prior adverse events.
+
+The patient described the tablets from this batch as having an "unusual chemical odor" compared to previous fills. No other medications were changed concurrently.
+
+The hospital pharmacy has quarantined remaining stock from this batch (847 tablets). We request:
+1. Batch record review for this lot
+2. Retain sample analysis
+3. Assessment of potential adverse event reportability (MedWatch/FAERS)
+
+This complaint is classified as a potential adverse drug reaction requiring urgent pharmacovigilance assessment.
+
+Submitted by: Dr. Emily Torres
+Hospital Pharmacy Network
